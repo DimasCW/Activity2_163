@@ -21,7 +21,7 @@ int main()
     
     do {
         cout << "\n\n========================" << endl;
-        cout << "========= MENU =========" << endl;
+        cout << "========= MENU =========" << endl; 
         cout << "========================" << endl;
         cout << "1. Luas Persegi" << endl;
         cout << "2. Luas Lingkaran" << endl;

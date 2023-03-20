@@ -18,5 +18,8 @@
     <ClCompile Include="Latihan4_163.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Latihan5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
