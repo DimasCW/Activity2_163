@@ -52,6 +52,9 @@ int main()
             break;
         case 4:
             break;
+        default:
+            cout << "pilihan salah" << endl;
+            break;
         }
     } while (pilihan != 4);
 }
